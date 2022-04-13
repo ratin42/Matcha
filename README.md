@@ -2,8 +2,8 @@
 
 This project is about creating a client side rendering dating website.
 
-This project was made with [@ratin](https://github.com/ratin42) who worked on the frontend,
-</br>while I've been focusing on the backend.
+This project was made with [@hlombard](https://github.com/hlombard) who worked on the Backend,
+</br>while I've been focusing on the Fromtend.
 
 </br>
 
